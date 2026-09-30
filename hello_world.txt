@@ -1,0 +1,2 @@
+This is my first project in The Odin Project.
+I am learning so much!
